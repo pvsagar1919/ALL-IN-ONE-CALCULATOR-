@@ -1,0 +1,11 @@
+{
+  "name": "brightcalc-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive SEO-friendly multi-category calculator website.",
+  "scripts": {
+    "build": "node scripts/build-site.js",
+    "serve": "node scripts/serve.js",
+    "verify": "node scripts/verify-site.js"
+  }
+}

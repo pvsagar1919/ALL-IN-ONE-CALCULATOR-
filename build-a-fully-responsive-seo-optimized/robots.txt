@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brightcalc-pvsagar-20260504.netlify.app/sitemap.xml

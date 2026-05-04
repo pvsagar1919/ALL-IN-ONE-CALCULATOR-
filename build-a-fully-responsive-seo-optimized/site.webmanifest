@@ -1,0 +1,9 @@
+{
+  "name": "BrightCalc",
+  "short_name": "BrightCalc",
+  "description": "Fast online calculators for finance, health, math, date and unit conversions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FBFD",
+  "theme_color": "#4CAF50"
+}
